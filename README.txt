@@ -1,6 +1,6 @@
 This data was collected from the Australian Energy Market operator 
 Each example of the dataset refers to a period of 30 minutes, i.e. there are 48 instances for each time period of one day
-It is for the month of Sept,Oct,  Novermber, 2018 for Queensland
+It is for 2018 for Queensland
 
 
 To do- 
